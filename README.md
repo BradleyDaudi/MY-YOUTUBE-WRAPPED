@@ -16,7 +16,7 @@ By casually reviewing my YouTube watch patterns over a long period, I created a 
 
 ⸻
 
-📌 Key Discoveries
+# 📌 Key Discoveries
 
 🎤 Music That Moves Me
 	• Sauti Sol – Smooth vocals and powerful performances that blend Afro-pop with Kenyan identity.
