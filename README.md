@@ -2,26 +2,56 @@
 
 A reflective overview of my most-watched creators and content themes on YouTube
 
+⸻
+
 🎯 Purpose
 
-This project started as a personal curiosity,  I wanted to better understand the kind of content I gravitate toward on YouTube. Over time, I began noticing patterns in what I consistently watch and decided to take a step back to document the most influential channels and creators in my viewing journey.
+This project began as a way to better understand my own content consumption habits. Over time, I noticed recurring patterns in the types of creators and themes I enjoy most on YouTube. This analysis captures the essence of that journey — what I watch, why I watch it, and how it reflects my personal interests and values.
+
+⸻
 
 🧠 Approach
 
-By reviewing my own YouTube viewing trends over time, I compiled a list of creators and topics that have left a lasting impression, whether through entertainment, inspiration, or education. This analysis isn’t just about content, it’s about what resonates with me and why.
+By casually reviewing my YouTube watch patterns over a long period, I created a shortlist of creators and content types that consistently stood out. This wasn’t about deep data analytics — just observation and reflection on the content that continues to draw me in.
 
-🗂️ Key Discoveries
-	•	# 🎤 Music That Moves Me
-From Sauti Sol to Fireboy DML, Young John, Zerb, and Victony, my love for Afrobeats, soulful rhythms, and genre-bending collaborations is clear. These artists have dominated my playlists with catchy hooks and meaningful lyrics.
-	•	# 🧠 Conversations That Stick
-Channels like Lynn Ngugi Network, CTA (Cleaning the Airwaves), UpSyd, and Dialogue with Jagero deliver powerful interviews and untold stories that stay with me long after I’ve watched them.
-	•	# 💡 Learning Moments
-Whether it’s a tech tutorial, a walkthrough on business tools, or troubleshooting tips, I find myself often drawn to channels that make complex topics easier to understand, like How to Power BI or iDeviceHelp.
-	•	# 🏠 Lifestyle & Growth
-Real estate, financial education, and career content from creators like Priter Homes and Wealth Tribe by Agatha show my interest in long-term personal growth, investment, and informed decision-making.
-	•	# 🎭 Culture, Humor & Faith
-From the nostalgic gospel tunes of Esther Wahome and Jemmimah Thiong’o, to the vibrant humor of Awinja (Disco Matanga), my watchlist reflects a strong connection to culture, identity, and joy.
+⸻
 
-🧾 Reflection
+📌 Key Discoveries
 
-Looking at my viewing habits through this lens helped me recognize recurring themes in what I value: authenticity, storytelling, self-improvement, and cultural pride. YouTube, for me, isn’t just entertainment — it’s a space of learning, identity, and inspiration.
+🎤 Music That Moves Me
+	•	Sauti Sol – Smooth vocals and powerful performances that blend Afro-pop with Kenyan identity.
+	•	Fireboy DML – Emotionally rich Afrobeats with hits like Peru and Vibration.
+	•	Young John – A producer-turned-singer bringing fun and flair to Nigerian pop.
+	•	Zerb ft. Sofiya Nzau – Mwaki – A global Afro-house hit blending tribal vocals with deep electronic vibes.
+	•	Victony – Known for hits like Soweto, his music is both soulful and resilient.
+
+🧠 Conversations That Stick
+	•	Lynn Ngugi Network (LNN) – Raw, real stories that spotlight humanity and social issues.
+	•	CTA (Cleaning the Airwaves) – Deep interviews on Kenya’s cultural history with host Richard Njau.
+	•	Dialogue with Jagero – Thoughtful, progressive conversations tackling African politics and society.
+	•	UpSyd – Engaging interviews with entrepreneurs and influencers like Jimmy Wanjigi and Dennis Ombachi.
+
+💡 Learning Moments
+	•	How to Power BI – Clear and simple guides for mastering business data analysis tools.
+	•	iDeviceHelp – Quick and reliable tech fixes, especially for iOS devices.
+
+🏠 Lifestyle & Growth
+	•	Priter Homes Real Estate – Property tours and real estate insights tailored to the Kenyan market.
+	•	Wealth Tribe by Agatha – Practical investing tips, money mindset coaching, and African financial empowerment.
+
+🎭 Culture, Humor & Faith
+	•	Awinja (Disco Matanga) – Comic skits with cultural flair and signature energy.
+	•	Esther Wahome – Kibali – Gospel music that resonates spiritually and nostalgically.
+	•	Jemmimah Thiong’o – Celebrated for her gospel hits that defined a generation.
+
+⸻
+
+🧾 Final Thoughts
+
+Looking back on my own watch history has been surprisingly eye-opening. It’s clear I value:
+	•	Authentic, meaningful stories
+	•	African excellence in music and culture
+	•	Educational content that empowers
+	•	Uplifting faith-based content and lighthearted entertainment
+
+This personal digital audit reflects more than just screen time — it’s a mirror into what inspires, informs, and moves me.
