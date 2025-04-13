@@ -1,34 +1,27 @@
 📺 Personal YouTube Watch History Analysis
 
-A reflective deep dive into my most-watched YouTube channels, powered by my own data
+A reflective overview of my most-watched creators and content themes on YouTube
 
 🎯 Purpose
 
-This project was born from curiosity — I wanted to better understand my own content consumption habits on YouTube. Using the YouTube API, I scraped and analyzed my personal watch history to identify the channels and creators I engage with the most. The goal wasn’t just to look at raw numbers, but to find patterns and insights that reflect who I am, what I value, and how I spend my digital time.
+This project started as a personal curiosity,  I wanted to better understand the kind of content I gravitate toward on YouTube. Over time, I began noticing patterns in what I consistently watch and decided to take a step back to document the most influential channels and creators in my viewing journey.
 
-🛠️ How I Did It
+🧠 Approach
 
-I accessed my YouTube data using the YouTube Data API, which allowed me to extract a detailed list of my watch history. I then cleaned and reviewed this data to identify the most watched channels, and took a qualitative approach to understand why these creators stood out to me.
+By reviewing my own YouTube viewing trends over time, I compiled a list of creators and topics that have left a lasting impression, whether through entertainment, inspiration, or education. This analysis isn’t just about content, it’s about what resonates with me and why.
 
-🗂️ What I Discovered
+🗂️ Key Discoveries
+	•	🎤 Music That Moves Me
+From Sauti Sol to Fireboy DML, Young John, Zerb, and Victony, my love for Afrobeats, soulful rhythms, and genre-bending collaborations is clear. These artists have dominated my playlists with catchy hooks and meaningful lyrics.
+	•	🧠 Conversations That Stick
+Channels like Lynn Ngugi Network, CTA (Cleaning the Airwaves), UpSyd, and Dialogue with Jagero deliver powerful interviews and untold stories that stay with me long after I’ve watched them.
+	•	💡 Learning Moments
+Whether it’s a tech tutorial, a walkthrough on business tools, or troubleshooting tips, I find myself often drawn to channels that make complex topics easier to understand, like How to Power BI or iDeviceHelp.
+	•	🏠 Lifestyle & Growth
+Real estate, financial education, and career content from creators like Priter Homes and Wealth Tribe by Agatha show my interest in long-term personal growth, investment, and informed decision-making.
+	•	🎭 Culture, Humor & Faith
+From the nostalgic gospel tunes of Esther Wahome and Jemmimah Thiong’o, to the vibrant humor of Awinja (Disco Matanga), my watchlist reflects a strong connection to culture, identity, and joy.
 
-Here’s a breakdown of the kinds of content that rose to the top:
-	•	🎤 Music & Vibes
-Artists like Fireboy DML, Sauti Sol, Zerb, Young John, and Victony dominated my watch history — clear proof of my love for Afrobeat, soulful fusion, and cross-cultural rhythm.
-	•	🧠 Interviews & Stories that Matter
-Channels like Lynn Ngugi Network (LNN), CTA (Cleaning the Airwaves), Dialogue with Jagero, and UpSyd consistently kept me engaged through powerful storytelling and real-life interviews.
-	•	💡 Learning & Tech
-Practical knowledge is a huge part of my YouTube time — from Power BI tutorials to iDeviceHelp, I frequently turn to the platform to solve tech issues and upskill.
-	•	🏡 Finance & Real Estate
-Channels like Wealth Tribe by Agatha and Priter Homes Real Estate reveal my growing interest in money matters, investments, and property — key themes for long-term growth.
-	•	🎭 Culture, Faith & Humor
-From the gospel roots of Esther Wahome and Jemmimah Thiong’o, to the comedic genius of Awinja (Disco Matanga), my taste spans tradition, spirituality, and fun.
+🧾 Reflection
 
-🔍 Key Insight
-
-This wasn’t just about watching habits — it was about personal discovery.
-By analyzing my own YouTube data, I saw how my interests are shaped by African culture, music, storytelling, self-improvement, and curiosity. I’m drawn to content that is authentic, relatable, and rich in perspective — whether that’s in a beat, a story, or a tutorial.
-
-🧾 Next Step
-
-The insights gathered here lay the foundation for a visual presentation and deeper content curation. This could serve as a personal digital fingerprint — or even a springboard for content I might want to create, follow up on, or recommend to others.
+Looking at my viewing habits through this lens helped me recognize recurring themes in what I value: authenticity, storytelling, self-improvement, and cultural pride. YouTube, for me, isn’t just entertainment — it’s a space of learning, identity, and inspiration.
